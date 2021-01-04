@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TRAVELBOOK</string>
+    <string name="api_url">http://api.visitkorea.or.kr/openapi/service/rest/KorService/</string>
+    <string name="search_keyword_url">http://api.visitkorea.or.kr/openapi/service/rest/KorService/searchKeyword</string>
+    <string name="search_loca_url">http://api.visitkorea.or.kr/openapi/service/rest/KorService/locationBasedList</string>
+    <string name="detail_url">http://api.visitkorea.or.kr/openapi/service/rest/KorService/detailCommon</string>
+    <string name="service_key">Z3fk6SntCk3Cd%2FSuEQbaZTnEWQ1mj5FSAlv3878Hr1ZX6BpOm%2Fd4fLQ3QqHHnrNhHSMZSHkMUMNF7be1EvKJKw%3D%3D</string>
+    <string name="google_api_key">AIzaSyBo6BboT4t5E9LN6AS8ZlOgMX5A1o13Iow</string>
+</resources>
